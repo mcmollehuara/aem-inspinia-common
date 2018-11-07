@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="710eedfb-d8e7-42ad-9378-5e1a875daf7b">
+    <jcr:content
+        dam:relativePath="seed/module/business connection.png"
+        jcr:lastModified="{Date}2017-05-30T16:49:45.420-05:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}32"
+            dam:extracted="{Date}2017-05-30T16:49:45.194-05:00"
+            dam:Fileformat="PNG"
+            dam:MIMEtype="image/png"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}3.6800954341888428"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}3.6800954341888428"
+            dam:Progressive="no"
+            dam:sha1="f88e477b54a4bc7cc3e8e2e4f6c600d459a167f6"
+            dam:size="{Long}39269"
+            dc:format="image/png"
+            exif:ColorSpace="{Long}1"
+            exif:PixelXDimension="{Long}265"
+            exif:PixelYDimension="{Long}265"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            photoshop:DocumentAncestors="[adobe:docid:photoshop:2a8118b7-5ce6-117a-b9f2-921f4de03aac,xmp.did:b0de0153-35da-446f-bcf6-b2fa10a18958]"
+            photoshop:DocumentAncestors_xmpArrayType="rdf:Bag"
+            photoshop:ICCProfile="sRGB IEC61966-2.1"
+            tiff:ImageLength="{Long}265"
+            tiff:ImageWidth="{Long}265"
+            tiff:Orientation="{Long}1"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:XResolution="720000/10000"
+            tiff:YResolution="720000/10000"
+            xmp:CreateDate="{Date}2017-04-10T17:19:12.000-04:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015.5 (Macintosh)"
+            xmp:MetadataDate="{Date}2017-04-10T17:20:33.000-04:00"
+            xmp:ModifyDate="{Date}2017-04-10T17:20:33.000-04:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:e22b3f8a-5ec1-117a-8911-cf3cbf2e8fda"
+            xmpMM:InstanceID="xmp.iid:45ca310a-2730-48c0-a136-73083c44cb52"
+            xmpMM:OriginalDocumentID="xmp.did:404f7413-7541-4556-bffd-100f8753c559">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}5"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="created"
+                    stEvt:instanceID="xmp.iid:404f7413-7541-4556-bffd-100f8753c559"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015.5 (Macintosh)"
+                    stEvt:when="{Date}2017-04-10T17:19:12.000-04:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:367e6202-a7c1-4a7a-9e5c-ec9dbe9c0165"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015.5 (Macintosh)"
+                    stEvt:when="{Date}2017-04-10T17:20:33.000-04:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0033_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="converted"
+                    stEvt:parameters="from application/vnd.adobe.photoshop to image/png"
+                    xmpNodeType="xmpStruct"/>
+                <_x0034_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="derived"
+                    stEvt:parameters="converted from application/vnd.adobe.photoshop to image/png"
+                    xmpNodeType="xmpStruct"/>
+                <_x0035_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:45ca310a-2730-48c0-a136-73083c44cb52"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015.5 (Macintosh)"
+                    stEvt:when="{Date}2017-04-10T17:20:33.000-04:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="xmp.did:404f7413-7541-4556-bffd-100f8753c559"
+                stRef:instanceID="xmp.iid:367e6202-a7c1-4a7a-9e5c-ec9dbe9c0165"
+                stRef:originalDocumentID="xmp.did:404f7413-7541-4556-bffd-100f8753c559"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

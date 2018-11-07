@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="81ddb3ad-8eff-4754-bad2-9e8fd606d0fc">
+    <jcr:content
+        dam:relativePath="seed/c3/v1/home_trends.jpg"
+        jcr:lastModified="{Date}2017-05-30T14:19:34.690-05:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            crs:AlreadyApplied="True"
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2017-05-30T14:19:33.871-05:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}3.3333332538604736"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}5.0"
+            dam:Progressive="yes"
+            dam:sha1="118d566f03b9c3248f3ff1c5a0b5bed0ffb86f4d"
+            dam:size="{Long}102197"
+            dc:format="image/jpeg"
+            exif:ColorSpace="{Long}-1"
+            exif:ExifOffset="{Long}228"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}360"
+            exif:PixelYDimension="{Long}240"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="[8,8,8,8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}240"
+            tiff:ImageWidth="{Long}360"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="72"
+            tiff:YResolution="72"
+            xmp:CreateDate="{Date}2017-03-16T17:10:27.000+05:30"
+            xmp:CreatorTool="Adobe Photoshop CS5 Windows"
+            xmp:MetadataDate="{Date}2017-04-04T19:19:58.000+05:30"
+            xmp:ModifyDate="{Date}2017-04-04T19:19:58.000-05:00"
+            xmpMM:DocumentID="xmp.did:1C10E2E53919E711A08AD59510A506D2"
+            xmpMM:InstanceID="xmp.iid:1C10E2E53919E711A08AD59510A506D2"
+            xmpMM:OriginalDocumentID="xmp.did:1C10E2E53919E711A08AD59510A506D2">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}1"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:1C10E2E53919E711A08AD59510A506D2"
+                    stEvt:softwareAgent="Adobe Photoshop CS5 Windows"
+                    stEvt:when="{Date}2017-04-04T19:19:58.000+05:30"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="d9164605-6bd2-4a1c-94dc-055d2b880030">
+    <jcr:content
+        dam:relativePath="seed/c3/v1/scbsmbsprites.png"
+        jcr:lastModified="{Date}2017-05-30T14:19:26.536-05:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}8"
+            dam:Comments="Software: Macromedia Fireworks 8&#xa;Creation Time: 01/20/14&#xa;"
+            dam:extracted="{Date}2017-05-30T14:19:25.868-05:00"
+            dam:Fileformat="PNG"
+            dam:MIMEtype="image/png"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}2"
+            dam:Physicalheightindpi="{Long}71"
+            dam:Physicalheightininches="{Decimal}8.858267784118652"
+            dam:Physicalwidthindpi="{Long}71"
+            dam:Physicalwidthininches="{Decimal}8.436445236206055"
+            dam:Progressive="no"
+            dam:sha1="05032f7fae0c8aa3d18a25dd02ba9b6239fd5368"
+            dam:size="{Long}33712"
+            dc:format="image/png"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}630"
+            tiff:ImageWidth="{Long}600"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
