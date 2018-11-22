@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="26af16b0-a907-4227-920a-eb51d4d70094">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="seed/gallery/4s.jpg"
+        jcr:lastModified="{Date}2018-11-22T09:29:49.978-05:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2018-11-22T09:29:49.665-05:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}1.3888888359069824"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}1.3888888359069824"
+            dam:Progressive="yes"
+            dam:sha1="e0cd2320ddcfbea3adfc9976a040e2611e7dd21e"
+            dam:size="{Long}19606"
+            dc:format="image/jpeg"
+            exif:ColorSpace="{Long}1"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}100"
+            exif:PixelYDimension="{Long}100"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            photoshop:ICCProfile="sRGB IEC61966-2.1"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}100"
+            tiff:ImageWidth="{Long}100"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="720000/10000"
+            tiff:YResolution="720000/10000"
+            xmp:CreateDate="{Date}2015-01-28T18:46:42.000+01:00"
+            xmp:CreatorTool="Adobe Photoshop CS5 Windows"
+            xmp:MetadataDate="{Date}2015-01-28T18:53:32.000+01:00"
+            xmp:ModifyDate="{Date}2015-01-28T18:53:32.000+01:00"
+            xmpMM:DocumentID="712E2C8D497934A06102E3A3B0855C23"
+            xmpMM:InstanceID="xmp.iid:EFEEFE3B16A7E41180C2852337AB8D23"
+            xmpMM:OriginalDocumentID="712E2C8D497934A06102E3A3B0855C23">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}3"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:A6BABC1616A7E41180C2852337AB8D23"
+                    stEvt:softwareAgent="Adobe Photoshop CS5 Windows"
+                    stEvt:when="{Date}2015-01-28T18:50:54.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:EEEEFE3B16A7E41180C2852337AB8D23"
+                    stEvt:softwareAgent="Adobe Photoshop CS5 Windows"
+                    stEvt:when="{Date}2015-01-28T18:53:32.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0033_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:EFEEFE3B16A7E41180C2852337AB8D23"
+                    stEvt:softwareAgent="Adobe Photoshop CS5 Windows"
+                    stEvt:when="{Date}2015-01-28T18:53:32.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

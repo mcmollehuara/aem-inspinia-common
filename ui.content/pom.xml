@@ -35,13 +35,6 @@
     <name>seed Commons - Content</name>
     <description>Content package for seed Commons</description>
 
-    <scm>
-        <connection>scm:git:https://github.com/Adobe-Marketing-Cloud/aem-sample-seed-commons.git</connection>
-        <developerConnection>scm:git:git@github.com:Adobe-Marketing-Cloud/aem-sample-seed-commons.git</developerConnection>
-        <url>https://github.com/Adobe-Marketing-Cloud/aem-sample-seed-commons/tree/master/ui.content</url>
-        <tag>seed.commons-1.0.0-SNAPSHOT</tag>
-    </scm>
-
     <!-- ====================================================================== -->
     <!-- B U I L D D E F I N I T I O N -->
     <!-- ====================================================================== -->

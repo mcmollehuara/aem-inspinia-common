@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="77f27563-cf89-45f3-bd8f-cce73117c55c">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="seed/p_big3.jpg"
+        jcr:lastModified="{Date}2018-11-22T09:29:07.270-05:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2018-11-22T09:29:06.882-05:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}200"
+            dam:Physicalheightininches="{Decimal}2.815000057220459"
+            dam:Physicalwidthindpi="{Long}200"
+            dam:Physicalwidthininches="{Decimal}5.0"
+            dam:Progressive="no"
+            dam:sha1="dce8fd2adcf8b6accaf6cd0203180ad90295cc32"
+            dam:size="{Long}521275"
+            dc:format="image/jpeg"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}563"
+            tiff:ImageWidth="{Long}1000"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:XResolution="200/1"
+            tiff:YResolution="200/1"
+            xmp:MetadataDate="{Date}2013-07-08T01:23:19.000-07:00"
+            xmpMM:DocumentID="xmp.did:cfef2404-8f29-4990-a932-a08ba615ab28"
+            xmpMM:InstanceID="xmp.iid:cfef2404-8f29-4990-a932-a08ba615ab28"
+            xmpMM:OriginalDocumentID="E55C27CF7B1AF2DEB4FC708FEEED3F56"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

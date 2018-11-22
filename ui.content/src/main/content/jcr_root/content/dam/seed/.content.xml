@@ -4,6 +4,47 @@
     jcr:lastModifiedBy="admin"
     jcr:mixinTypes="[mix:lockable]"
     jcr:primaryType="sling:OrderedFolder">
-    <c3/>
     <module/>
+    <a1.jpg/>
+    <a2.jpg/>
+    <a3.jpg/>
+    <a4.jpg/>
+    <a5.jpg/>
+    <a6.jpg/>
+    <a7.jpg/>
+    <a8.jpg/>
+    <angular_logo.png/>
+    <dashboard4_1.jpg/>
+    <dashboard4_2.jpg/>
+    <email_1.jpg/>
+    <email_2.jpg/>
+    <email_3.jpg/>
+    <full_height.jpg/>
+    <headphones.jpg/>
+    <html_logo.png/>
+    <meteor_logo.png/>
+    <mvc_logo.png/>
+    <off_canvas.jpg/>
+    <jcr:content jcr:primaryType="nt:unstructured">
+        <folderThumbnail/>
+    </jcr:content>
+    <p_big1.jpg/>
+    <p_big2.jpg/>
+    <p_big3.jpg/>
+    <p1.jpg/>
+    <p2.jpg/>
+    <p3.jpg/>
+    <p4.jpg/>
+    <p5.jpg/>
+    <p6.jpg/>
+    <p7.jpg/>
+    <p8.jpg/>
+    <profile.jpg/>
+    <profile_big.jpg/>
+    <profile_small.jpg/>
+    <rails_logo.png/>
+    <starter_logo.jpg/>
+    <zender_logo.png/>
+    <gallery/>
+    <landing/>
 </jcr:root>
