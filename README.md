@@ -1,4 +1,4 @@
-# seed Commons
+# seed inspinia commons
 
 This is the seed Commons project.
 
